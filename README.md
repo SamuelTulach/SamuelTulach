@@ -3,6 +3,5 @@ This is my GitHub profile where I almost exclusively host all of my projects. If
 
 **Contact:**
 - Telegram: [@writecr4](https://t.me/writecr4)
-- Discord: [\_writecr4](https://discordapp.com/users/672416755242500108)
 - Email: samuel@tulach.cc
 
