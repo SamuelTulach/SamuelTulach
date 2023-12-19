@@ -1,6 +1,8 @@
 ## Hello there👋
 This is my GitHub profile where I almost exclusively host all of my projects. If you wish to read my blog or learn more about me, [check out my website](https://tulach.cc). 
 
+**Warning:** I do not sell anything and I do not work with anyone else. If you see someone claiming otherwise, they are scammers.
+
 ### Contact
 
 - Email: samuel@tulach.cc
