@@ -9,5 +9,6 @@ This is my GitHub profile where I almost exclusively host all of my projects. If
 - Telegram: [@writecr4](https://t.me/writecr4)
 - Steam: [writecr4](https://steamcommunity.com/id/_cr4/)
 - Discord: [writecr0](https://discord.com/users/672416755242500108)
+- YouTube: [@SamuelTulach](https://www.youtube.com/@samueltulach)
 
 ![GitHub followers](https://img.shields.io/github/followers/SamuelTulach) ![GitHub User's stars](https://img.shields.io/github/stars/SamuelTulach) 
